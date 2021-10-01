@@ -1,0 +1,41 @@
+1    time:5 height:9 live time:4
+
+i:1 j:5 9 
+i:1 j:9 0 
+
+
+2    time:9 height:2 live time:3
+
+i:2 j:1 11 
+i:2 j:4 9 
+i:2 j:5 2 
+i:2 j:8 0 
+
+
+3    time:12 height:10 live time:6
+
+i:3 j:1 19 
+i:3 j:2 12 
+i:3 j:4 11 
+i:3 j:5 10 
+i:3 j:7 9 
+i:3 j:8 2 
+i:3 j:11 0 
+
+
+4    time:13 height:1 live time:1
+
+i:4 j:0 20 
+i:4 j:1 19 
+i:4 j:2 12 
+i:4 j:3 12 
+i:4 j:4 11 
+i:4 j:5 10 
+i:4 j:6 10 
+i:4 j:7 9 
+i:4 j:8 2 
+i:4 j:10 1 
+i:4 j:11 0 
+
+
+13a
